@@ -1,5 +1,5 @@
 ## Usage: 
-http://localhost:3001/?url=github.com/facebook/react
+http://localhost:3001/?url=linkedin.com/
 
 ## To run project:
 1. yarn install
